@@ -17,4 +17,4 @@ If a Guild Elder do deposit but their point is above member's target point, they
 
 # Features
 So this apps can read data from a .txt file instead of type the data one by one. After reading some inputs, then we can see the inputted data, then which members to kick, which members to add to the promote/demote list, which members to have their deposit taken.
-This apps can also create discord leaderboard text that also will be written in a .txt file and we can copy the text to post the result in our discord too.
+This apps can also create discord leaderboard text that also will be written in a .txt file and we can copy the text to post the result in our discord too. I also put a sample data in file contri_data.txt to help you test this program :3
