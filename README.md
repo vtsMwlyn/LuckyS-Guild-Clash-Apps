@@ -13,6 +13,6 @@ ANOTHER RULE:
 Every member also must deposit some amount of in game currency in guild's storage world before the clash event starts. The deposit can be returned to them if their point is above member's target point, else the deposit will be taken (the member will be considered as skipping clash).
 If a Guild Elder do deposit but their point is above member's target point, they will be included in demote list because they actually can contribute but they don't contribute optimally until they reach Guild Elder's target point.
 
-#Features
+# Features
 So this apps can read data from a .txt file instead of type the data one by one. After reading some inputs, then we can see the inputted data, then which members to kick, which members to add to the promote/demote list, which members to have their deposit taken.
 This apps can also create discord leaderboard text that also will be written in a .txt file and we can copy the text to post the result in our discord too.
